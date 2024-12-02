@@ -1,7 +1,7 @@
 // check wheter person have fever or not
 package conditional_operator;
 
-public class program6 {
+public class problem6 {
     public static void main(String[] args) {
         double temp = 103.5;
 
