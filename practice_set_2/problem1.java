@@ -27,5 +27,8 @@ public class problem1 {
     else {
         System.out.println("you are fail");
     }
+    m1.close();
+    m2.close();
+    m3.close();
     }
 }

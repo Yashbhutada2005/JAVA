@@ -11,7 +11,7 @@ public class problem2 {
 
         System.out.println("Hi "+name +" have a good day" );
         
-        
+     sc.close();   
     }
     
 }

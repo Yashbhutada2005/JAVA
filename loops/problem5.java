@@ -13,6 +13,6 @@ public class problem5 {
             System.out.print(lastDigit + "");
             n = n / 10;
         }
-
+            sc.close();
     }    
 }

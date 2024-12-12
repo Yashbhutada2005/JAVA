@@ -25,5 +25,6 @@ public class problem2 {
             income = income - (income * 30/100);
             System.out.println("Your income after tax deduction is " + income);
         }
+        s.close();
     }
 }

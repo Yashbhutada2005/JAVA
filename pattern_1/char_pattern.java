@@ -1,5 +1,6 @@
 // print a charcter pattern
 
+
 package pattern_1;
 
 public class char_pattern {

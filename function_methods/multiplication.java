@@ -14,5 +14,6 @@ public class multiplication {
         int b = sc.nextInt();
         Calculatemul(a,b); // arguments or actual parameter
 
+            sc.close();
     }
 }

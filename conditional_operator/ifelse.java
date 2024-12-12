@@ -16,7 +16,8 @@ public class ifelse {
         else {
             System.out.println("not adult");
         }
-
-    
     }
 }
+
+    
+   

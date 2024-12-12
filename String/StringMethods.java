@@ -32,5 +32,7 @@ public class StringMethods {
         // 6. Replace
         String r = name.replace('b','r');
         System.out.println(r);
+
+    
     }
 }

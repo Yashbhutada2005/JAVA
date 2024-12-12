@@ -16,6 +16,7 @@ public class problem3 {
         else {
             System.out.println("The Year is not a Leap year");
         }
+        sc.close();
     }
     
 }

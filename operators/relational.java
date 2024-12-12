@@ -32,8 +32,10 @@ public class relational {
         // (a>=b) and (a<=b) greater than/ less than or equal to
         int i = 10;
         int j = 10;
-        System.out.println(a>=b);
+        System.out.println(i>=j);
         System.out.println(a<=b);
+
+        
     }
     
 }

@@ -29,6 +29,10 @@ public class problem1 {
         float CGPA;
         CGPA = (percentage / 9.5f);
         System.out.println("CGPA is " + CGPA);
+
+        sc.close();
+        sca.close();
+        scan.close();
         
     }
     

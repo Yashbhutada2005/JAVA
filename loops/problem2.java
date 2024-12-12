@@ -11,7 +11,9 @@ public class problem2 {
         while(number <= n) {
             System.out.println(number);
             number++ ;
+
         }
+        sc.close();
     }
     
 }

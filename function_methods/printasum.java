@@ -13,6 +13,7 @@ public class printasum {
     }
     public static void main(String[] args) {
         CalculateSum();
+
     }
 
 }

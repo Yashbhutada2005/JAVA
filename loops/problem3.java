@@ -16,6 +16,7 @@ public class problem3 {
             
         }
         System.out.println("sum is " + sum);
+        sc.close();
     }
     
 }
