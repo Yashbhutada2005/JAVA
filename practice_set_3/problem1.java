@@ -12,10 +12,12 @@ public class problem1 {
         int sum = n * (n+1) / 2;
 
         for(int i = 1; i <= n ; i++) {
-            sum += i;
+            sum = sum + i;
         }
         
             System.out.println(sum);
+            sc.close();
         }
+        
     }
 

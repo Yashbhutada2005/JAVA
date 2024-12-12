@@ -15,6 +15,7 @@ public class problem2 {
             
             System.out.println(mul);
         }
+        sc.close();
     }
     }
     
