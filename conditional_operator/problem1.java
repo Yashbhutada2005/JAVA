@@ -23,6 +23,9 @@ public class problem1 {
         if(c>a && c>b) {
             System.out.println("c is greater");
         }
+        sc.close();
+        s.close();
+        t.close();
     }
         
         }

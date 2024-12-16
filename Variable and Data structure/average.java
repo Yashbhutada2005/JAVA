@@ -9,7 +9,9 @@ import java.util.*;
             float c = sc.nextFloat();
 
             float average =(a+b+c)/3 ;
-            System.out.print(average);           
+            System.out.print(average); 
+            
+            sc.close();
 
         }
     

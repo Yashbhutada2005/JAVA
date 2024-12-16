@@ -23,6 +23,7 @@ public class switchstatment {
                 break;
             default : System.out.println("entered invalid day");
         }
+        sc.close();
     }
     
 }

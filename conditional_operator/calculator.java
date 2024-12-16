@@ -25,6 +25,6 @@ public class calculator {
                 break;
         default : System.out.println("selected wrong operator");
     }
-
+    s.close();
 }
 }

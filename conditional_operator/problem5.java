@@ -12,6 +12,7 @@ public class problem5 {
         } else {
             System.out.println("the number is negative");
         }
+        s.close();
 
     }
     

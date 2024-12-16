@@ -15,6 +15,7 @@ public class problem2 {
         } else {
             System.out.println("the number is odd");
         }
+        sc.close();
     }
     
 }

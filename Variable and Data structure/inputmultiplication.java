@@ -7,6 +7,6 @@ import java.util.*;
 
         float multiplication = a * b ;
         System.out.println(multiplication); 
-
+s.close();
     }
 }

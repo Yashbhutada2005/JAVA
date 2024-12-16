@@ -11,6 +11,7 @@ public class printasum {
 
     System.out.println("Sum is " + sum);
     }
+    
     public static void main(String[] args) {
         CalculateSum();
 

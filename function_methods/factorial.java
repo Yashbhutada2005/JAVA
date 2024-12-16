@@ -1,6 +1,7 @@
 package function_methods;
 
 public class factorial {
+    
     public static long factorial(long  n) {
         long f = 1;
 

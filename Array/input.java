@@ -16,6 +16,7 @@ public class input {
         for(int i = 0; i < n ; i++) {
             System.out.print(arr[i] + " "); // print 
         }
+        sc.close();
     }
     
 }

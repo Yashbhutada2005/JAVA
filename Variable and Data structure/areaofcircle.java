@@ -5,5 +5,6 @@ import java.util.*;
         double rad = s.nextDouble();
         double area = 3.14 * rad * rad ;
         System.out.print(area);
+        s.close();
     }
 }

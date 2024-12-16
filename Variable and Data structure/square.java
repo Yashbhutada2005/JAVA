@@ -8,6 +8,7 @@ import java.util.*;
 
             float area = side * side;
             System.out.print(area);
+            sc.close();
         }
     
 }

@@ -17,6 +17,7 @@ public class problem3 {
         else {
             System.out.println("30 % income tax");
         }
+        sc.close();
 
         }
     }

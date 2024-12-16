@@ -8,7 +8,7 @@ import java.util.*;
         Scanner s = new Scanner(System.in);
         float number = s.nextInt();
         System.out.println(number);
-
+s.close();
 
     }
     

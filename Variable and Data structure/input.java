@@ -13,5 +13,7 @@ import java.util.*;
             Scanner sc = new Scanner(System.in);
             float price = sc.nextFloat();
             System.out.println(price);
+
+            sc.close();
         }
     }

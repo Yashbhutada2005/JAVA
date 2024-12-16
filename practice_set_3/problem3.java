@@ -13,6 +13,7 @@ public class problem3 {
             
             System.out.println(n*i);
         }
+        sc.close();
         }
     }
 

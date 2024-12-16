@@ -9,14 +9,16 @@ public class problem2 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        for(int i = 1; i<=n ; i++) {
-            for(int j = 1; j <= 10; j++) {
-            int mul = n*j;
+        for(int i = 1; i<=10 ; i++) {
             
-            System.out.println(mul);
+            int mul = n*i;
+            
+            System.out.println(n + " x " + i + " = " + mul);
+           
         }
+        
         sc.close();
     }
     }
     
-}
+

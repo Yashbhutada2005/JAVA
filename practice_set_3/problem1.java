@@ -9,7 +9,7 @@ public class problem1 {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        int sum = n * (n+1) / 2;
+        int sum = n * (n+1) / 2; // formula
 
         for(int i = 1; i <= n ; i++) {
             sum = sum + i;

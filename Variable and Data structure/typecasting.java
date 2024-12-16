@@ -9,6 +9,7 @@ import java.util.*;
             char ch = 'a';
             int number = ch;
             System.out.print(number);
+            s.close();
 
         }
 

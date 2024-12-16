@@ -11,5 +11,7 @@ import java.util.*;
 
             float total = bill + (bill * 0.18f);
             System.out.println("bill with 18% gst is : " + total);
+
+            sc.close();
         }
 }
