@@ -21,7 +21,7 @@ public class problem6 {
             for(int i = 0; i < arr.length ; i++) {
             if(x == arr[i]){
                 System.out.println("Element " + x + " found at Index " + i);
-                return ;
+                
                   }     
         }
         sc.close();
