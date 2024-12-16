@@ -5,3 +5,5 @@ public class javabasics {
     }   
 }
 
+// searching an array 2 dimensional 
+// sum and avg
