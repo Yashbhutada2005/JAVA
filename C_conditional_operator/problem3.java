@@ -1,5 +1,6 @@
 // income tax slab
 
+package C_conditional_operator;
 import java.util.*;
 public class problem3 {
     public static void main(String[] args) {

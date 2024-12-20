@@ -1,3 +1,4 @@
+package G_Array;
 
 import java.util.*;
 public class input {

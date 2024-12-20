@@ -1,5 +1,7 @@
 //SWAP 2 NUMBER BY SUM AND DIFFRENCE METHOD
 
+package G_Array;
+
 public class problem_10 {
     public static void main(String[] args) {
         int a = 3;

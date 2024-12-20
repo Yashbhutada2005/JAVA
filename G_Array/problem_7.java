@@ -1,5 +1,6 @@
 //SUM OF VALUE OF 2 ELEMENT = 7 
 
+package G_Array;
 
 public class problem_7 {
     public static void main(String[] args) {

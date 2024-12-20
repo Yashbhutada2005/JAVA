@@ -1,3 +1,4 @@
+package C_conditional_operator;
 import java.util.*;
 public class switchstatment {
     public static void main(String[] args) {

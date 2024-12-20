@@ -1,4 +1,6 @@
 // input from user and check wheter number is negative or positive
+
+package C_conditional_operator;
 import java.util.*;
 public class problem5 {
     public static void main(String[] args) {

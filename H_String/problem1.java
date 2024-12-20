@@ -1,5 +1,7 @@
 // replace a name by yash
 
+package H_String;
+
 
 public class problem1 {
     public static void main(String[] args) {

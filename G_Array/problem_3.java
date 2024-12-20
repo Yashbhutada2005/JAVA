@@ -1,5 +1,7 @@
 // ELEMENT X
 
+package G_Array;
+
 public class problem_3 {
     public static void main(String[] args) {
         

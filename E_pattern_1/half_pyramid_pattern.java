@@ -1,6 +1,6 @@
 // print half pyramid pattern
 
-
+package E_pattern_1;
 
 public class half_pyramid_pattern {
     public static void main(String[] args) {

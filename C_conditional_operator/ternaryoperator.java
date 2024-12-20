@@ -1,3 +1,5 @@
+package C_conditional_operator;
+
 public class ternaryoperator {
     public static void main(String[] args) {
         int a = 6;

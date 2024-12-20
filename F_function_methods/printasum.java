@@ -1,3 +1,4 @@
+package F_function_methods;
 import java.util.*;
 public class printasum {
     public static void CalculateSum() {

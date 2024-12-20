@@ -1,5 +1,7 @@
 // CHECK WHETHER THE GIVEN NUMBER IS PRIME OR NOT
 
+package F_function_methods;
+
     import java.util.*;
     public class isPrime {
     

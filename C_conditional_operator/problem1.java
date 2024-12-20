@@ -1,5 +1,6 @@
 // print largest of three number
 
+package C_conditional_operator;
   import java.util.*;
 public class problem1 {
     public static void main(String[] args) {

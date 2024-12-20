@@ -1,5 +1,7 @@
 // SWAP 2 NUMBER
 
+package G_Array;
+
 public class problem_9 {
     public static void main(String[] args) {
         int a = 1;

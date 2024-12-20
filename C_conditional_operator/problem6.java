@@ -1,5 +1,6 @@
 // check wheter person have fever or not
 
+package C_conditional_operator;
 public class problem6 {
     public static void main(String[] args) {
         double temp = 103.5;

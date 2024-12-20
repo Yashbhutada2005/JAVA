@@ -1,3 +1,4 @@
+package F_function_methods;
 import java.util.*;
 public class multiplication {
     public static int Calculatemul(int a , int b) { // parameter or formal parameter 

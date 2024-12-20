@@ -1,5 +1,7 @@
 //  sum of 3 element of array = 12
 
+package G_Array;
+
 public class problem_8 {
     public static void main(String[] args) {
         int[] arr = {1,4,5,6,3};

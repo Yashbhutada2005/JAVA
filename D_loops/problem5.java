@@ -1,5 +1,6 @@
 // print reverse of number
 
+package D_loops;
 import java.util.*;
 public class problem5 {
         public static void main(String[] args) {

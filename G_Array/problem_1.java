@@ -1,5 +1,6 @@
 // SUM OF THE ARRAY
 
+package G_Array;
 
 public class problem_1 {
     public static void main(String[] args) {

@@ -1,5 +1,6 @@
 //   AVERAGE OF 3 NUMBERS
 
+package F_function_methods;
     import java.util.*;
         public class average {
             

@@ -17,14 +17,14 @@ public class BubbleSort {
     }
 
     public static void main(String[] args) {
-        int arr[] = {2,4,7,9,1};
+        int arr[] = {2,4,7,9,1};                // ORIGNAL ARRAY
 
         System.out.println("Orignal Array : ");
         for(int num : arr) {
             System.out.print(num + " ");
         }
 
-        BubbleSort(arr);
+        BubbleSort(arr);                        // FUNCTION CALL
             
         System.out.println("");
         
@@ -33,4 +33,5 @@ public class BubbleSort {
             System.out.print(sort + " ");
         }    
     }    
+    
 }

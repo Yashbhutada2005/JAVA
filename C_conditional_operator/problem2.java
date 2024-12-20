@@ -1,5 +1,6 @@
 // print the number is even or odd
 
+package C_conditional_operator;
 import java.util.*;
 
 public class problem2 {

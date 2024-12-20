@@ -1,3 +1,4 @@
+package E_pattern_1;
 
 public class num_pattern {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package 3_conditional_operator;
+package C_conditional_operator;
 
 import java.util.*;
 

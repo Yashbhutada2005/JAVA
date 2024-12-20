@@ -1,5 +1,6 @@
 // print inverted star pattern
 
+package E_pattern_1;
 
 public class invertedstar {
     public static void main(String[] args) {

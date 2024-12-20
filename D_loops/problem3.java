@@ -1,5 +1,6 @@
 // sum of first n natural number
 
+package D_loops;
 import java.util.*;
 public class problem3 {
     public static void main(String[] args) {

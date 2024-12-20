@@ -1,6 +1,6 @@
 // print a charcter pattern
 
-
+package E_pattern_1;
 public class char_pattern {
     public static void main(String[] args) {
         

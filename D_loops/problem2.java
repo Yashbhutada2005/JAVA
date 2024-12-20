@@ -1,5 +1,6 @@
 // print number upto n , input from user 
 
+package D_loops;
 import java.util.*;
 public class problem2 {
     public static void main(String[] args) {

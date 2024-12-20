@@ -1,4 +1,4 @@
-
+package H_String;
 public class basic {
     public static void main(String[] args) {
         String name =  new String("Yash");
