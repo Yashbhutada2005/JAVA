@@ -46,8 +46,5 @@ public class TypeSpeedTest {
      System.out.println("Your typing speed is " + wpm + " WPM");
 
      sc.close();
-    
-
-
     }
 }
