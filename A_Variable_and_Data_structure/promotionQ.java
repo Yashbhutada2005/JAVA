@@ -1,3 +1,5 @@
+package A_variable_and_data_structure;
+
 public class promotionQ {
     public static void main(String[] args) {
         byte b = 4;

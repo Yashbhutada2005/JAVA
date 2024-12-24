@@ -1,3 +1,4 @@
+package A_variable_and_data_structure;
 import java.util.*;
     public class typeconversion {
     public static void main(String[] args) {

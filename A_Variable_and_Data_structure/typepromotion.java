@@ -1,3 +1,4 @@
+package A_variable_and_data_structure;
 public class typepromotion {
     public static void main(String[] args) {
        /*  char a = 'a';

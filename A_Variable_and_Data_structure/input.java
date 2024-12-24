@@ -1,3 +1,4 @@
+package A_variable_and_data_structure;
 import java.util.*;
     public class input {
         public static void main(String[] args) {

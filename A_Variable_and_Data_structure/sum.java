@@ -1,3 +1,4 @@
+package A_variable_and_data_structure;
 public class sum {
     public static void main(String[] args) {
         // code to calculate sum , multiplication , divison , substraction

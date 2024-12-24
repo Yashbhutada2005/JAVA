@@ -6,13 +6,15 @@ public class SelectionSort {
 
         int n = arr.length;
 
-        for(int i = 0; i < n-1; i++){
-            int MinPos = i;
-            for(int j= i+1; j < n; j++){
-                if(arr[MinPos] > arr[j]){
-                    MinPos = j;
+        for(int i = 0; i < n-1; i++){                 // STARTS WITH FIRST ELEMENT GOES TILL LAST SECOND , CAUSE LAST ELEMENT IS SORTED
+            int MinPos = i;                           // SMALLEST POSITION 
+            for(int j= i+1; j < n; j++){              // CHECK FOR EACH ELEMENT AND UPDATE THE INDEX
+                if(arr[MinPos] > arr[j]){             // IF ANY OF THE SMALL ELEMENT IS FOUNDED THEN SWAP THE ELEMENT 
+                    MinPos = j;                       // UPDATE THE MINIMUM POSITION
                 }
             }
+
+            // SWAP
         int temp = arr[MinPos];
         arr[MinPos] = arr[i];
         arr[i] = temp;
@@ -30,7 +32,7 @@ public class SelectionSort {
 
         System.out.println("");
 
-        SelectionSort(arr);
+        SelectionSort(arr);                           // FUNCTION CALL
 
         System.out.println("Sorted Array : ");
         for(int sort : arr){

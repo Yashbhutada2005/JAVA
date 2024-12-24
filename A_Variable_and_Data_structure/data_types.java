@@ -1,3 +1,4 @@
+package A_variable_and_data_structure;
 public class data_types {
     public static void main(String args[]) {
         int a = 5;
