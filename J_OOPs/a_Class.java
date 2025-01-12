@@ -1,6 +1,6 @@
 package J_OOPs;
 
-public class Class {
+public class a_Class {
 
     public static class student {       // Created a Class
         String name;
