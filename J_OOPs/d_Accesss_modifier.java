@@ -26,7 +26,7 @@ public class d_Accesss_modifier {
             System.out.println(d);
         }
 
-        protected void Info() {
+        protected void Info() {     // protected method
             System.out.println(names);
         }
 
