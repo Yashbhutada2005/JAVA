@@ -8,7 +8,7 @@ public class calculator {
     Scanner s = new Scanner(System.in);
     System.out.println("enter number a :");
     float a = s.nextFloat();
-    System.err.println("enter number b :");
+    System.out.println("enter number b :");
     float b = s.nextFloat();
     System.out.println("select operator :");
     char operator = s.next().charAt(0);

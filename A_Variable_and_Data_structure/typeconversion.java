@@ -7,7 +7,7 @@ import java.util.*;
         System.out.println(b);  */
 
         Scanner s = new Scanner(System.in);
-        float number = s.nextInt();
+        int number = (int) s.nextFloat();
         System.out.println(number);
 s.close();
 

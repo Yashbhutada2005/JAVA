@@ -7,7 +7,7 @@ import java.util.*;
             int b =(int) a;
             System.out.println(b);   */
 
-            char ch = 'a';
+            char ch = '#';
             int number = ch;
             System.out.print(number);
             s.close();
