@@ -4,6 +4,7 @@ class bike {
     String b;
     int y;
 
+    // parameterized constructor
     bike(String b , int y ){
        this.b = b;
        this.y = y;
