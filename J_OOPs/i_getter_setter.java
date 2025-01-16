@@ -1,13 +1,11 @@
 package J_OOPs;
 
-    /* ENCAPSULATION */   // it is binding method and data together in single class (variables as private)
-
 class students {
 
     private String name ;                 // variables should be private
     private int age;
 
-    public String getName()               // use of getter and setter methods
+    public String getName()              
      {
         return name;
     }
@@ -23,10 +21,8 @@ class students {
     {
         age = a;
     }
-
 }
-public class h_encapsulation {
-
+public class i_getter_setter {
     public static void main(String[] args) {
     
     students obj = new students();
@@ -37,3 +33,5 @@ public class h_encapsulation {
     }
     
 }
+
+
