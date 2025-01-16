@@ -4,14 +4,16 @@ class B {
     String brand;
     int price;
 
-    B(){
+    // CONSTRUCTOR OVERLOADING
+
+    B(){                                 // default constructor
     }
 
-    B(String b){
+    B(String b){                          // parameterized constructor with one parameter
         this.brand = b;
     }
 
-    B(String b, int y){
+    B(String b, int y){                 // parameterized constructor with two parameter
         this.brand = b;
         this.price = y;
     }
