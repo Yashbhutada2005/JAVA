@@ -1,12 +1,18 @@
 package J_OOPs;
+ 
+     /* MULTILEVEL INHERITANCE */
 
+        /*  A - B - C  */
+
+// GRAND PARENT CLASS
 class sports {
     void a()
     {
-        System.out.println("Toss");
+        System.out.println("Toss :");
     }
 }
 
+// PARENT CLASS
 class sports1 extends sports {
     void b()
     {
@@ -15,6 +21,7 @@ class sports1 extends sports {
     }
 }
 
+// CHILD CLASS
 class sports2 extends sports1 {
     void c()
      {
