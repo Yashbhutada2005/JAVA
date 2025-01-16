@@ -1,5 +1,8 @@
 package J_OOPs;
+  
+     /* SINGLE INHERITANCE */
 
+// PARENT CLASS
 class animal {
 
     void janwar()
@@ -8,7 +11,8 @@ class animal {
     }
 }
 
-class dog extends animal {
+// CHILD CLASS
+class dog extends animal {   // ONLY ONE CHILD CLASS
 
     void eat () 
     {
@@ -16,14 +20,14 @@ class dog extends animal {
     }
 }
 
-public class k_inheritance {
+public class k1_single_inheritance {
 
     public static void main(String[] args) {
         
         dog Dog = new dog();
 
-        Dog.janwar();
-        Dog.eat();
+        Dog.janwar(); // PARENT CLASS
+        Dog.eat();    // CHILD CLASS
     }
     
 }
