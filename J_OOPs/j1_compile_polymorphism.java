@@ -1,20 +1,23 @@
 package J_OOPs;
 
+  /*  COMPILE TIME POLYMORPHISM */
+
+  // METHOD OVERLOADING
 class X {
-    void add() 
+    void add()                           // FUNCTION 1
     {
         int a  = 10 , b = 234 , c;
         c = a+b;
         System.out.println("SUM : " + c);
     }
 
-    void add(double e , double f) 
+    void add(double e , double f)        // FUNCTION 2
     {
         double g = e+f;
         System.out.println("SUM : " + g);
     }
 
-    void add(double x , long y)
+    void add(double x , long y)           // FUNCTION 3
     {
         double z = x+y;
         System.out.println("SUM : " + z);
