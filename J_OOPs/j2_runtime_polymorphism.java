@@ -1,6 +1,10 @@
 package J_OOPs;
 
-class Animal {
+      /* RUN TIME POLYMORPHISM  */
+
+      // METHOD OVERRIDING
+
+class Animal {              // PARENT CLASS
 
     void sound()
     {
@@ -8,9 +12,10 @@ class Animal {
     }
 }
 
-class Dog extends Animal {
+class Dog extends Animal {     // CHILD CLASS 
 
-    void sound()
+    @Override
+    void sound()      // METHOD OVERRIDEN
     {
         System.out.println("Dog Barks!!");
     }
