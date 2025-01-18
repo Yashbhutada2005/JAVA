@@ -1,17 +1,22 @@
 package J_OOPs;
 
-abstract class humans {
-    public abstract void eat();
+      /*  ABSTRACTION - ABSTRACT CLASS  */
+
+
+abstract class humans {               // ABSTRACT CLASS (USING ABSTRACT KEYWORD)
+    public abstract void eat();       // ABSTRACT METHOD 
 }
 
-class Veg extends humans {
+
+// inheritance is must
+class Veg extends humans {           // CHILD CLASS1
  public void eat()
  {
     System.out.println("Vegetarian will eat panner , vegetables etc");
  }
 }
 
-class Nonveg extends humans {
+class Nonveg extends humans {      // CHILD CLASS 2
     public void eat() {
         System.out.println("Non - vegetarian will eat chicken , mutton etc");
     }
