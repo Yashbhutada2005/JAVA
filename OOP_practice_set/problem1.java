@@ -4,7 +4,7 @@ package OOP_practice_set ;
 
 import java.util.Scanner;
 
-class BankAccount {
+class BankAccount {           // class and declared multiple datat types
     String Bankname;
     String accountholdername;
     double accountnumber;
@@ -12,20 +12,20 @@ class BankAccount {
     double withdraw;
     double deposit;
 
-   public void deposit(double deposit) {
-    balance += deposit;
+   public void deposit(double deposit) {      // deposit function
+    balance += deposit;                       // update the balance
         System.out.println("Succesfully Deposited " + deposit);
     }
-    public void withdraw(double withdraw) {
-        if(balance >= withdraw) {
-            balance -= withdraw;
+    public void withdraw(double withdraw) {   // withdraw function
+        if(balance >= withdraw) {             // if condition to withdraw the fund
+            balance -= withdraw;              // - the amount you withdraw from the balace left
             System.out.println("Withdrawed Succesfully : " + withdraw);
         }
         else {
             System.out.println("Insufficient balance");
         }
     }
-    public void balance() {
+    public void balance() {                  // balance function
         System.out.println("Your Balance : " + balance);
     }
 
@@ -48,7 +48,7 @@ public class problem1 {
         long accountnumber = sc.nextLong ();
         System.out.println(accountnumber);
 
-        while(true){
+        while(true){            // to continue the procedure
         System.out.println("1. Deposit");
         System.out.println("2. Withdraw");
         System.out.println("3. Check Balance");
@@ -56,7 +56,7 @@ public class problem1 {
         System.out.println("Choose the Option");
         int select = sc.nextInt();
 
-        switch (select) {
+        switch (select) {      // switch statment
 
             case 1: 
             System.out.println("Enter Amount to be Deposit :");

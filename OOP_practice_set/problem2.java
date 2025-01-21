@@ -3,13 +3,14 @@
 package OOP_practice_set;
 
 import java.util.*;
-abstract class Shapes {
-    double CalArea() {
+abstract class Shapes {        // abstract class
+    double CalArea() {         // double function
         System.out.println("Area :");
-        return 0;
+        return 0;              // return the value as nothing is implemented
     }
 }
 
+// child class 1
 class rectangle extends Shapes {
     double length;
     double breadth;
@@ -24,6 +25,7 @@ class rectangle extends Shapes {
     }
 }
 
+// child class 2
 class square extends Shapes {
     double side;
 
@@ -35,6 +37,7 @@ class square extends Shapes {
     }
 }
 
+// child class 3
 class circle extends Shapes {
     double radius;
 
@@ -46,6 +49,7 @@ class circle extends Shapes {
     }
 }
 
+// child class 4
 class triangle extends Shapes {
     double len;
     double brd;
@@ -64,7 +68,7 @@ public static void main(String[] args) {
     
     Scanner sc = new Scanner(System.in);
 
-    while(true){
+    while(true){         // the process will keep going until you choose exit
         System.out.println("Choose the Shape");
     System.out.println("1. Rectangle");
     System.out.println("2. square");
@@ -73,9 +77,9 @@ public static void main(String[] args) {
     System.out.println("Enter your Choice :");
     int select = sc.nextInt();
 
-    Shapes shape = null;
+    Shapes shape = null;     // variable declaration and initialization
 
-    switch(select) {
+    switch(select) {        // switch statment
 
         case 1:
         System.out.println("Lenght :");
@@ -111,7 +115,7 @@ public static void main(String[] args) {
         sc.close();
         return;
     }
-    if(shape != null) {
+    if(shape != null) {      // if condition to check if no. is 0 then it false
         System.out.println("AREA : " + shape.CalArea());
     }
 }
