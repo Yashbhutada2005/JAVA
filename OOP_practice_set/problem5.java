@@ -20,25 +20,25 @@ class Animal {
     }
 }
 
-    class Mammal extends Animal {
+public class problem5 {
+    static class Mammal extends Animal {
         public Mammal(String name , String species , int age){
             super(name, species, age);
         }
     }
 
-    class Bird extends Animal {
+   static class Bird extends Animal {
         public Bird(String name , String species , int age){
             super(name, species, age);
         }
     }
 
-    class Reptile extends Animal {
+  static class Reptile extends Animal {
         public Reptile(String name , String species , int age){
             super(name, species, age);
         }
     }
 
-public class problem5 {
     public static void main(String[] args) {
 
         Mammal obj = new Mammal("Elephant", "Elephas Maximas", 25);
