@@ -5,10 +5,11 @@ package K_Recursion;
 public class problem1 {
     // RECURSICE FUNCTION
     public static void dec(int n){           
-        if(n == 1){                    // BASE CASE
-            System.out.println(1);
-            return;
+        if(n == 1){        // BASE CASE
+            System.out.println("1");
+            return ;
         }
+        // kaam
         System.out.print(n + " ");      // PRINT N
         dec(n-1);                       // TILL N-1
     }
