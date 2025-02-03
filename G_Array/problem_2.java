@@ -6,7 +6,7 @@ public class problem_2 {
     public static void main(String[] args) {
         
         int[] arr = {12,3,5,3,54,67,44,653,43,264,23,7532};
-        int ans = 0;
+        int ans = 0;           // IT WILL COMPARE THE VALUE OF ELEMENT IN ARRAY WITH PREVIOUS ELEMENT
 
         for(int i = 0 ; i < arr.length ; i++) {
             if(arr[i] > ans) {

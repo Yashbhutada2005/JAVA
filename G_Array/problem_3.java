@@ -12,10 +12,9 @@ public class problem_3 {
 
         for(int i = 0; i < arr.length; i++) {
             if(arr[i] == x) {
-                ans = i; // i = index
+                ans = i;  // i = index
             }
         }
             System.out.println(ans);
-
     }    
 }
