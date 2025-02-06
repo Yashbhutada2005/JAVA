@@ -1,3 +1,5 @@
+// SPIRAL MATRIX
+
 package G1_2D_Array;
 
 public class spiral_matrix {
@@ -29,7 +31,7 @@ public class spiral_matrix {
 
             // LEFT
             for(int i= endRow-1; i>= startRow+1; i--){
-                if(startRow == endRow){
+                if(startRow == endRow){   // use if the matrix nxm means diffrent row and coloumn
                     return;
                 }
                 System.out.print(matrix[i][startCol] + " ");
