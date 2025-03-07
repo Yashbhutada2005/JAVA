@@ -25,10 +25,10 @@ public class function {
         return n & bitmask;
     }
 
-    // UPDATE ITH BIT
-    public static int updateithbit(int n , int i){
-        n = clearithbit(n , i);
-    }
+    // // UPDATE ITH BIT
+    // public static int updateithbit(int n , int i){
+    //     n = clearithbit(n , i);
+    // }
 
     public static void main(String[] args) {
         System.out.println(getithbit(9, 3));
