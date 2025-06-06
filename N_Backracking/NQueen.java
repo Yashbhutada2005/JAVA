@@ -62,7 +62,7 @@ public class NQueen {
                 board[i][j] = '.';
             }
         }
-
+              
         NQueen(board, 0);
     }
 }
