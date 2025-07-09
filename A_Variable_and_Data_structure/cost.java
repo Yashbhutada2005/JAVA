@@ -10,7 +10,7 @@ import java.util.*;
             float bill =( pen + pencil + eraser);
             System.out.println("bill is : " + bill);
 
-            float total = bill + (bill * 0.18f);
+            double total = bill + (bill * 0.18);
             System.out.println("bill with 18% gst is : " + total);
 
             sc.close();
