@@ -7,7 +7,7 @@ public class ifelse {
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();
         System.out.println("your age is " + age);
-        if(age > 18) {
+        if(age > 18)  {
             System.out.println("adult");
         } 
         if(age>13 && age<18) {
