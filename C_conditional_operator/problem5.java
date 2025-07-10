@@ -14,7 +14,5 @@ public class problem5 {
             System.out.println("the number is negative");
         }
         s.close();
-
-    }
-    
+    }  
 }
