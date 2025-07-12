@@ -5,7 +5,7 @@ public class functionoverloading {
         return a + b;
      }
      public static int mul(int a , int b , int c ) {
-        return a*b ;
+        return a*b*c ;
      }
      public static int sum(int a , int b , int c) {
         return a+b+c ;

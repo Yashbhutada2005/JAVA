@@ -4,7 +4,7 @@ package F_function_methods;
     import java.util.*;
         public class average {
             
-            public static void CalAverage(int a , int b, int c) {
+            public static void CallAverage(float a , float b, float c) {
 
                 float average = (a + b+ c )/3;
                 System.out.println("Average : " + average);
@@ -13,15 +13,15 @@ package F_function_methods;
             public static void main(String[] args) {
                 Scanner sc = new Scanner(System.in);
                 System.out.println("Enter a :");
-                int a = sc.nextInt();
+                float a = sc.nextInt();
 
                 System.out.println("Enter b :");
-                int b = sc.nextInt();
+                float b = sc.nextInt();
 
                 System.out.println("Enter c :");
-                int c = sc.nextInt();
+                float c = sc.nextInt();
 
-                CalAverage(a, b, c);
+                CallAverage(a, b, c);
 
                 sc.close();
 
