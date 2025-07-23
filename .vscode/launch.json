@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "B_Remove",
+            "request": "launch",
+            "mainClass": "O_Linked_List.B_Remove",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
             "name": "A_Add",
             "request": "launch",
             "mainClass": "O_Linked_List.A_Add",

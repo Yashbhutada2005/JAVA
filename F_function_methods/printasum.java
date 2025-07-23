@@ -8,6 +8,7 @@ public class printasum {
         System.out.println("enter b :");
         int b = sc.nextInt();
         int sum = a + b;
+        sc.close();
 
     System.out.println("Sum is " + sum);
     }

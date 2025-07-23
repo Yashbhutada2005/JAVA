@@ -18,6 +18,7 @@ package F_function_methods;
             System.out.println("Enter Number :");
             Scanner sc = new Scanner(System.in);
             int num = sc.nextInt();
+            sc.close();
 
             System.out.println(isPrime(num));
         }
