@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "D_RecursiveSearch",
+            "request": "launch",
+            "mainClass": "O_Linked_List.D_RecursiveSearch",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "C_IterativeSearch",
+            "request": "launch",
+            "mainClass": "O_Linked_List.C_IterativeSearch",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
             "name": "B_Remove",
             "request": "launch",
             "mainClass": "O_Linked_List.B_Remove",
