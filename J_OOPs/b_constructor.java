@@ -5,8 +5,8 @@ class student {           // class
     int rollno;
     int marks;
 
-    student(){           // constructor
-        name = "Yash";
+    student(){               // constructor
+        this.name = "Yash";
         this.rollno = 52;
         this.marks = 94;
     }
@@ -22,7 +22,7 @@ public class b_constructor {
     public static void main(String[] args) {
         
         student obj = new student();        // initialize
-       obj.display();                       // display
+        obj.display();                       // display
         
     }
     

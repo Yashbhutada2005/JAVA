@@ -16,14 +16,13 @@ public class c_Object {
             car car1 = new car();    // creating car object
             car car2 = new car();    // car2 = refrence variable
 
-            car1.brand = "toyota";    // attributes
+            car1.brand = "toyota";   // attributes
             car1.colour = "red";
             car2.brand = "audi";
             car2.colour = "black";
 
-            car1.car_details();   // calling object 
+            car1.car_details();      // calling object 
             car2.car_details();
 
          }
-    
-}
+      }
