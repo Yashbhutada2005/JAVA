@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "M_IntersectionOfLL",
+            "request": "launch",
+            "mainClass": "O_Linked_List.M_IntersectionOfLL",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
             "name": "L_ReverseaDLL",
             "request": "launch",
             "mainClass": "O_Linked_List.L_ReverseaDLL",
