@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "E_ReverseAString",
+            "request": "launch",
+            "mainClass": "P_Stack.E_ReverseAString",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "D_PushAtBottom",
+            "request": "launch",
+            "mainClass": "P_Stack.D_PushAtBottom",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "C_StackUsingJCF",
+            "request": "launch",
+            "mainClass": "P_Stack.C_StackUsingJCF",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "B_StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "P_Stack.B_StackUsingLinkedList",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "A_StackUsingArrayList",
+            "request": "launch",
+            "mainClass": "P_Stack.A_StackUsingArrayList",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "O_MergeKSortedLL",
+            "request": "launch",
+            "mainClass": "O_Linked_List.O_MergeKSortedLL",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
+            "name": "N_DeleteMafterNnodes",
+            "request": "launch",
+            "mainClass": "O_Linked_List.N_DeleteMafterNnodes",
+            "projectName": "JAVA_dca63a9d"
+        },
+        {
+            "type": "java",
             "name": "M_IntersectionOfLL",
             "request": "launch",
             "mainClass": "O_Linked_List.M_IntersectionOfLL",
