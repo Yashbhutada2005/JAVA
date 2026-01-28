@@ -6,6 +6,139 @@
     "configurations": [
         {
             "type": "java",
+            "name": "problem17",
+            "request": "launch",
+            "mainClass": "G_Array.problem17",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem16",
+            "request": "launch",
+            "mainClass": "G_Array.problem16",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem14",
+            "request": "launch",
+            "mainClass": "G_Array.problem14",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem13",
+            "request": "launch",
+            "mainClass": "G_Array.problem13",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Sudoku",
+            "request": "launch",
+            "mainClass": "PROJECT.Sudoku",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem_7",
+            "request": "launch",
+            "mainClass": "G_Array.problem_7",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem_6",
+            "request": "launch",
+            "mainClass": "G_Array.problem_6",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pat20",
+            "request": "launch",
+            "mainClass": "E_pattern_1.pat20",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pat18",
+            "request": "launch",
+            "mainClass": "E_pattern_1.pat18",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pat16",
+            "request": "launch",
+            "mainClass": "E_pattern_1.pat16",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pat14",
+            "request": "launch",
+            "mainClass": "E_pattern_1.pat14",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "re",
+            "request": "launch",
+            "mainClass": "re",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pat5",
+            "request": "launch",
+            "mainClass": "E_pattern_1.pat5",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pat7",
+            "request": "launch",
+            "mainClass": "E_pattern_1.pat7",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "pattern",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem6",
+            "request": "launch",
+            "mainClass": "D_loops.problem6",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "e",
+            "request": "launch",
+            "mainClass": "e",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "StringMethods",
+            "request": "launch",
+            "mainClass": "H_String.StringMethods",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "data_types",
+            "request": "launch",
+            "mainClass": "A_variable_and_data_structure.data_types",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
             "name": "E_ReverseAString",
             "request": "launch",
             "mainClass": "P_Stack.E_ReverseAString",
