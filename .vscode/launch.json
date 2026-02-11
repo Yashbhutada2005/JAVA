@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TypeSpeedTest",
+            "request": "launch",
+            "mainClass": "PROJECT.TypeSpeedTest",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P_SmallestNumberFollowing",
+            "request": "launch",
+            "mainClass": "P_Stack.P_SmallestNumberFollowing",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "O_CelebrityProblem",
+            "request": "launch",
+            "mainClass": "P_Stack.O_CelebrityProblem",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "N_PrefixEvaluation",
+            "request": "launch",
+            "mainClass": "P_Stack.N_PrefixEvaluation",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "M_PostfixEvaluation",
+            "request": "launch",
+            "mainClass": "P_Stack.M_PostfixEvaluation",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "L_InfixEvaluation",
+            "request": "launch",
+            "mainClass": "P_Stack.L_InfixEvaluation",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "K_LargeAreaHistogram",
+            "request": "launch",
+            "mainClass": "P_Stack.K_LargeAreaHistogram",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "J_StockSpaan",
+            "request": "launch",
+            "mainClass": "P_Stack.J_StockSpaan",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "I_NextGreaterElementinRight",
+            "request": "launch",
+            "mainClass": "P_Stack.I_NextGreaterElementinRight",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "H_BalancingBrackets",
+            "request": "launch",
+            "mainClass": "P_Stack.H_BalancingBrackets",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "G_DuplicateBrackets",
+            "request": "launch",
+            "mainClass": "P_Stack.G_DuplicateBrackets",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "A_StackUsingArrayList",
+            "request": "launch",
+            "mainClass": "P_Stack.A_StackUsingArrayList",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "A1_StackUsingArray",
+            "request": "launch",
+            "mainClass": "P_Stack.A1_StackUsingArray",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem21",
+            "request": "launch",
+            "mainClass": "G_Array.problem21",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem20",
+            "request": "launch",
+            "mainClass": "G_Array.problem20",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem19",
+            "request": "launch",
+            "mainClass": "G_Array.problem19",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem18",
+            "request": "launch",
+            "mainClass": "G_Array.problem18",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "a2_AnyBaseToAnyBase",
+            "request": "launch",
+            "mainClass": "F_function_methods.a2_AnyBaseToAnyBase",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "a1_AnyBaseToDecimal",
+            "request": "launch",
+            "mainClass": "F_function_methods.a1_AnyBaseToDecimal",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "a_DecimalToAnyBase",
+            "request": "launch",
+            "mainClass": "F_function_methods.a_DecimalToAnyBase",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "digigtfreqn",
+            "request": "launch",
+            "mainClass": "F_function_methods.digigtfreqn",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "BenjaminBulb",
+            "request": "launch",
+            "mainClass": "C_conditional_operator.BenjaminBulb",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem7",
+            "request": "launch",
+            "mainClass": "C_conditional_operator.problem7",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem7",
+            "request": "launch",
+            "mainClass": "D_loops.problem7",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
             "name": "problem17",
             "request": "launch",
             "mainClass": "G_Array.problem17",
