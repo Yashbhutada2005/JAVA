@@ -6,6 +6,97 @@
     "configurations": [
         {
             "type": "java",
+            "name": "D_PostorderTraversal",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.D_PostorderTraversal",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "C_InorderTraversal",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.C_InorderTraversal",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "B_Preorder",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.B_Preorder",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "A_PreorderTree",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.A_PreorderTree",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "J_UnionAndIntersection",
+            "request": "launch",
+            "mainClass": "Q_Hashing.J_UnionAndIntersection",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "I_CountDistinctElement",
+            "request": "launch",
+            "mainClass": "Q_Hashing.I_CountDistinctElement",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "H_TreeSet",
+            "request": "launch",
+            "mainClass": "Q_Hashing.H_TreeSet",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "G_LinkedHashSet",
+            "request": "launch",
+            "mainClass": "Q_Hashing.G_LinkedHashSet",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "F_HashSet",
+            "request": "launch",
+            "mainClass": "Q_Hashing.F_HashSet",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "E_ValidAnagram",
+            "request": "launch",
+            "mainClass": "Q_Hashing.E_ValidAnagram",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "D_MajorityElement",
+            "request": "launch",
+            "mainClass": "Q_Hashing.D_MajorityElement",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "C_TreeMap",
+            "request": "launch",
+            "mainClass": "Q_Hashing.C_TreeMap",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "B_LinkedHashMap",
+            "request": "launch",
+            "mainClass": "Q_Hashing.B_LinkedHashMap",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
             "name": "Hashmap",
             "request": "launch",
             "mainClass": "Q_Hashing.Hashmap",
