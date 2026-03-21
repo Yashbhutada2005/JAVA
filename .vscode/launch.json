@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ChatClient",
+            "request": "launch",
+            "mainClass": "ChatClient",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "I_DiameterOfNodes",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.I_DiameterOfNodes",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "H_SumOfNodes",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.H_SumOfNodes",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "G_CountOfNodes",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.G_CountOfNodes",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "F_HeightOfTree",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.F_HeightOfTree",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "E_LevelOfOrder",
+            "request": "launch",
+            "mainClass": "R_BinaryTrees.E_LevelOfOrder",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
             "name": "D_PostorderTraversal",
             "request": "launch",
             "mainClass": "R_BinaryTrees.D_PostorderTraversal",
