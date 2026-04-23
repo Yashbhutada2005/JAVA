@@ -1,5 +1,7 @@
 package P1_Queue;
 
+import java.util.*;
+
  public class ImplementUsingArray {
     
     static class Queue {
