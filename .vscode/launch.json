@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "implementationUsingArray$Queue",
+            "request": "launch",
+            "mainClass": "P01_Queue.implementationUsingArray$Queue",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "implementUsingJCF",
+            "request": "launch",
+            "mainClass": "P1_Queue.implementUsingJCF",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "implementUsingLL",
+            "request": "launch",
+            "mainClass": "P1_Queue.implementUsingLL",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "prac11",
+            "request": "launch",
+            "mainClass": "PROJECT.prac11",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
             "name": "ImplementUsingArray$Queue",
             "request": "launch",
             "mainClass": "P1_Queue.ImplementUsingArray$Queue",
