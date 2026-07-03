@@ -6,6 +6,230 @@
     "configurations": [
         {
             "type": "java",
+            "name": "P14_Union",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P14_Union",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P13_Intersection",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P13_Intersection",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P12_FindDuplicate",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P12_FindDuplicate",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P11_MergeTwoSortedArray",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P11_MergeTwoSortedArray",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P10_LinearSearch",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P10_LinearSearch",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P9_Count",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P9_Count",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P8_ReverseAnArray",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P8_ReverseAnArray",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P7_AvgOfArray",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P7_AvgOfArray",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P6_SumOfArray",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P6_SumOfArray",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P5_SecondSmallest",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P5_SecondSmallest",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P4_SmallestElement",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P4_SmallestElement",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P3_ArrayIsSorted",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P3_ArrayIsSorted",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P2_SecondLargestElement",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P2_SecondLargestElement",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "P1_LargestElement",
+            "request": "launch",
+            "mainClass": "G0_ArrayBasic.P1_LargestElement",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem13",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem13",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem12",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem12",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem11",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem11",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem10",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem10",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem9",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem9",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem8",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem8",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem7",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem7",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem6",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem6",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem5",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem5",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem4",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem4",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem3",
+            "request": "launch",
+            "mainClass": "A_Basics.problem3",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem2",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem2",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "typeconversion",
+            "request": "launch",
+            "mainClass": "A_variable_and_data_structure.typeconversion",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "A_variable_and_data_structure.input",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem1",
+            "request": "launch",
+            "mainClass": "D_loops.problem1",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "Problem1",
+            "request": "launch",
+            "mainClass": "A_Basics.Problem1",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "problem1",
+            "request": "launch",
+            "mainClass": "A1_Basics.problem1",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
+            "name": "A1",
+            "request": "launch",
+            "mainClass": "A1_Basics.A1",
+            "projectName": "JAVA_88c43b3b"
+        },
+        {
+            "type": "java",
             "name": "implementationUsingArray$Queue",
             "request": "launch",
             "mainClass": "P01_Queue.implementationUsingArray$Queue",
